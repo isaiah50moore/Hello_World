@@ -1,6 +1,6 @@
 
-# Hello_World
----
+# Hello World Sample Repository
+----------
 ## Description
 Sample repository created for BAIS:3050 Spring of 2021
 ## Creator Info
