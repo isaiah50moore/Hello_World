@@ -1,4 +1,6 @@
-# Hello_World
+gem install colorize
+
+# "Hello_World".green
 ## Description
 Sample repository for BAIS:3050
 ## Creator Info
