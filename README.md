@@ -3,6 +3,7 @@
 ----------
 ## Description
 Sample repository created for BAIS:3050 Spring of 2021
+-h
 ## Creator Info
 My name is **Isaiah Moore**, and this is my second year at the University of Iowa.
 ## To Do
